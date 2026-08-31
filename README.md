@@ -56,3 +56,13 @@ streamlit run main.py
 # Screenshot
 
 ![Screenshot from 2023-10-23 20-36-22](https://github.com/lalanikarim/ai-chatbot-conversational/assets/1296705/9919a3b3-c24e-4b1d-a121-1eb6724db5c6)
+
+📞 Contact
+----------
+
+For any queries or suggestions, feel free to reach out:
+
+*   **👤 Name:** LALITH VARDHAN REDDY
+*   📧 **Email:** reddylalithvardhan@gmail.com
+*   💻 **GitHub:** [LALITH VARDHAN REDDY](https://github.com/Lalith-Reddy2004)
+*   🔗 **LinkedIn:** [LALITH VARDHAN REDDY](https://www.linkedin.com/in/lalithvardhan-reddy-bb0420272/)
